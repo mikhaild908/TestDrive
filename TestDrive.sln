@@ -1,0 +1,40 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDrive", "TestDrive\TestDrive.csproj", "{1C03548A-7D79-496D-8211-A727A52E9DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|Any CPU = Release|Any CPU
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		XTC|Any CPU = XTC|Any CPU
+		XTC|iPhone = XTC|iPhone
+		XTC|iPhoneSimulator = XTC|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C03548A-7D79-496D-8211-A727A52E9DBF}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
+		{1C03548A-7D79-496D-8211-A727A52E9DBF}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{1C03548A-7D79-496D-8211-A727A52E9DBF}.Debug|iPhone.Build.0 = Debug|iPhone
+		{1C03548A-7D79-496D-8211-A727A52E9DBF}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{1C03548A-7D79-496D-8211-A727A52E9DBF}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{1C03548A-7D79-496D-8211-A727A52E9DBF}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
+		{1C03548A-7D79-496D-8211-A727A52E9DBF}.Release|iPhone.ActiveCfg = Release|iPhone
+		{1C03548A-7D79-496D-8211-A727A52E9DBF}.Release|iPhone.Build.0 = Release|iPhone
+		{1C03548A-7D79-496D-8211-A727A52E9DBF}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{1C03548A-7D79-496D-8211-A727A52E9DBF}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{1C03548A-7D79-496D-8211-A727A52E9DBF}.XTC|Any CPU.ActiveCfg = Debug|iPhoneSimulator
+		{1C03548A-7D79-496D-8211-A727A52E9DBF}.XTC|Any CPU.Build.0 = Debug|iPhoneSimulator
+		{1C03548A-7D79-496D-8211-A727A52E9DBF}.XTC|iPhone.ActiveCfg = Release|iPhone
+		{1C03548A-7D79-496D-8211-A727A52E9DBF}.XTC|iPhone.Build.0 = Release|iPhone
+		{1C03548A-7D79-496D-8211-A727A52E9DBF}.XTC|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{1C03548A-7D79-496D-8211-A727A52E9DBF}.XTC|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
